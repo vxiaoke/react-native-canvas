@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "ctx-polyfill": "^1.1.4",
-    "react-native-webview": "https://github.com/vxiaoke/react-native-webview.git"
+    "react-native-webview": "https://gitlab.vxiaoke360.com/vxiaoke-projects/react-native-webview.git"
   },
   "repository": "https://github.com/iddan/react-native-canvas"
 }
